@@ -1,6 +1,6 @@
 ### Extraction des Caractéristiques : Feature Extraction
 
-=> consiste à prendre les poids sous jacents qu'un modèle préentrainé a appris et à ajuster ses sorties pour qu'elles plus adaptées à notre problème. Elle utile lorsque les données d'entrées sont similaires à celles sur lesquelles le modèle s'est déjà formé.
+=> consiste à prendre les poids sous jacents qu'un modèle préentrainé a appris et à ajuster ses sorties pour qu'elles plus adaptées à notre problème. Elle est utile lorsque les données d'entrées sont similaires à celles sur lesquelles le modèle s'est déjà formé.
 
 ### Ajustement fin : Fine Tuning
 
